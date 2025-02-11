@@ -18,11 +18,11 @@ export const Header = () => {
               sx={{
                 verticalAlign: 'middle',
                 paddingLeft: '5px',
-                width: '40px',
-                height: '40px',
+                width: '264px',
+                height: '74px',
               }}
               component="img"
-              height="40"
+              height="74"
               alt=""
               src="yopass.svg"
             />
