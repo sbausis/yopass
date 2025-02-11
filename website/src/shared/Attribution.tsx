@@ -8,9 +8,7 @@ export const Attribution = () => {
     return (
       <Typography variant="body2" color="textSecondary" align="center">
         {t('attribution.translatedBy')}{' '}
-        <Link href={t('attribution.translatorLink')}>
-          {t('attribution.translatorName')}
-        </Link>
+        <Link href={t('attribution.translatorLink')}>{t('attribution.translatorName')}</Link>
       </Typography>
     );
   };
@@ -25,8 +23,9 @@ export const Attribution = () => {
       >
         {t('attribution.createdBy')}{' '}
         <Link href="https://github.com/jhaals/yopass">Johan Haals</Link>
+        {t('attribution.translatedBy')}{' '}
+        <Link href={t('attribution.translatorLink')}>{t('attribution.translatorName')}</Link>
       </Typography>
-      {t('attribution.translatorName') && translationAttribution()}
     </Container>
   );
 };
