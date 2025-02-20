@@ -28,7 +28,6 @@ export const Header = () => {
               alt=""
               src="yopass.svg"
             />
-            Yopass
           </Typography>
         </Link>
         <Box
