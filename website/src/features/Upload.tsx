@@ -37,7 +37,7 @@ export default function Upload() {
 
   const { register, handleSubmit } = useForm<FormValues>({
     defaultValues: {
-      expiration: '3600',
+      expiration: '604800',
       oneTime: true,
       generateKey: true,
       customPassword: '',
