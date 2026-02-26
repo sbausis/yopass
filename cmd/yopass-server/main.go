@@ -37,7 +37,7 @@ func init() {
 	pflag.String("redis", "redis://localhost:6379/0", "Redis URL")
 	pflag.String("tls-cert", "", "path to TLS certificate")
 	pflag.String("tls-key", "", "path to TLS key")
-	pflag.Bool("force-onetime-secrets", false, "reject non onetime secrets from being created")
+	pflag.Bool("force-onetime-secrets", true, "reject non onetime secrets from being created")
 	pflag.String("cors-allow-origin", "*", "Access-Control-Allow-Origin")
 	pflag.Bool("disable-upload", false, "disable the /file upload endpoints")
 	pflag.Bool("prefetch-secret", true, "Display information that the secret might be one time use")
