@@ -41,7 +41,7 @@ export default function Navbar() {
               <img
                 src="/yopass.svg"
                 alt="a&f logo"
-                className="h-8 w-8 mr-3"
+                className="h-14 w-14 mr-3"
               />
               {t('header.appName')}
             </a>
