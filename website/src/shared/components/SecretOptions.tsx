@@ -42,7 +42,6 @@ export function SecretOptions({
               type="radio"
               {...register('expiration')}
               className="radio radio-primary"
-              defaultChecked={true}
               value="3600"
             />
             <span className="label-text font-medium">
@@ -65,6 +64,7 @@ export function SecretOptions({
               type="radio"
               {...register('expiration')}
               className="radio radio-primary"
+              defaultChecked={true}
               value="604800"
             />
             <span className="label-text font-medium">
