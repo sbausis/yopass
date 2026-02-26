@@ -69,12 +69,12 @@ export default function App() {
               <span className="text-base-content/70">
                 {t('footer.createdBy')}{' '}
                 <a
-                  href="https://github.com/jhaals"
+                  href="https://a-f.ch/"
                   className="text-primary hover:text-primary-focus font-medium transition-colors duration-200 underline decoration-dotted underline-offset-4 hover:decoration-solid"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Johan Haals
+                  a&f systems ag
                 </a>
               </span>
             </div>
