@@ -24,5 +24,6 @@ export function getInitialLogicalTheme(): LogicalTheme {
     typeof window !== 'undefined' &&
     window.matchMedia &&
     window.matchMedia('(prefers-color-scheme: dark)').matches;
-  return prefersDark ? 'dark' : 'light';
+  return 'light';
+  //return prefersDark ? 'dark' : 'light';
 }
