@@ -10,7 +10,7 @@
     "inputGenerateKeyLabel": "Сгенерировать ключ расшифровки"
   },
   "upload": {
-    "title": "Загрузка файла",
+    "title": "Загрузка файла (max. 75MB)",
     "buttonUpload": "Загрузить",
     "uploadFileButton": "Загрузить файл",
     "dragDropText": "Перетащите файл сюда или нажмите, чтобы выбрать",

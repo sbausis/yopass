@@ -10,7 +10,7 @@
     "inputGenerateKeyLabel": "Entschlüsselungsschlüssel generieren"
   },
   "upload": {
-    "title": "Datei hochladen",
+    "title": "Datei hochladen (max. 75MB)",
     "buttonUpload": "Hochladen",
     "uploadFileButton": "Datei hochladen",
     "dragDropText": "Datei ziehen & ablegen oder klicken, um eine Datei auszuwählen",

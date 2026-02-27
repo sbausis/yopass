@@ -10,7 +10,7 @@
     "inputGenerateKeyLabel": "Generate decryption key"
   },
   "upload": {
-    "title": "Upload file",
+    "title": "Upload file (max. 75MB)",
     "buttonUpload": "Upload",
     "uploadFileButton": "Upload File",
     "dragDropText": "Drag & drop or click to choose a file",

@@ -10,7 +10,7 @@
     "inputGenerateKeyLabel": "Genereer ontsleutelingssleutel"
   },
   "upload": {
-    "title": "Bestand uploaden",
+    "title": "Bestand uploaden (max. 75MB)",
     "buttonUpload": "Uploaden",
     "uploadFileButton": "Bestand uploaden",
     "dragDropText": "Sleep en zet neer of klik om een bestand te kiezen",

@@ -10,7 +10,7 @@
     "inputGenerateKeyLabel": "Згенераваць ключ дэшыфравання"
   },
   "upload": {
-    "title": "Запампоўка файла",
+    "title": "Запампоўка файла (max. 75MB)",
     "buttonUpload": "Запампаваць",
     "uploadFileButton": "Запампаваць файл",
     "dragDropText": "Перацягніце файл сюды або націсніце, каб выбраць",

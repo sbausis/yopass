@@ -10,7 +10,7 @@
     "inputGenerateKeyLabel": "Skapa dekrypteringsnyckel"
   },
   "upload": {
-    "title": "Ladda upp fil",
+    "title": "Ladda upp fil (max. 75MB)",
     "buttonUpload": "Ladda upp",
     "uploadFileButton": "Ladda upp fil",
     "dragDropText": "Dra & släpp eller klicka för att välja en fil",

@@ -10,7 +10,7 @@
     "inputGenerateKeyLabel": "Générer une clé de déchiffrement"
   },
   "upload": {
-    "title": "Charger un fichier",
+    "title": "Charger un fichier (max. 75MB)",
     "buttonUpload": "Fichier",
     "uploadFileButton": "Charger un fichier",
     "dragDropText": "Glissez/Déposez ou cliquez pour choisir un fichier",

@@ -10,7 +10,7 @@
     "inputGenerateKeyLabel": "Generar clave de desencriptación"
   },
   "upload": {
-    "title": "Subir archivo",
+    "title": "Subir archivo (max. 75MB)",
     "buttonUpload": "Subir",
     "uploadFileButton": "Subir archivo",
     "dragDropText": "Arrastre y suelte el archivo que desea enviar o haga clic para seleccionarlo",

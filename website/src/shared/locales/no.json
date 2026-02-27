@@ -10,7 +10,7 @@
     "inputGenerateKeyLabel": "Generer dekrypteringsnøkkel"
   },
   "upload": {
-    "title": "Last opp fil",
+    "title": "Last opp fil (max. 75MB)",
     "buttonUpload": "Last opp",
     "uploadFileButton": "Last opp fil",
     "dragDropText": "Dra og slipp eller klikk for å velge en fil",
