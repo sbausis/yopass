@@ -15,7 +15,7 @@ function Result({
   oneTime,
 }: ResultProps) {
   const { t } = useTranslation();
-  const oneClickLink = `${window.location.origin}/#/${prefix}/${uuid}/${password}`;
+  const oneClickLink = false;
   const shortLink = `${window.location.origin}/#/${prefix}/${uuid}`;
 
   function copyToClipboard(text: string) {
